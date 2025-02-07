@@ -12,6 +12,7 @@ This repository contains a Google Colab notebook that demonstrates how to use De
 
 colabNotebook : 
 youtube : 
+
 ---
 
 # Bolt.diy using built Rock Paper Scissors game with interation UI
@@ -36,6 +37,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 
 colabNotebook : 
 youtube : 
+
 ---
 
 # MNIST Classifier using Keras
@@ -58,4 +60,6 @@ This repository contains a neural network MNIST classifier built with Keras. The
 
 colabNotebook : 
 youtube : 
+
 ---
+
