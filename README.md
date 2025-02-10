@@ -35,7 +35,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 - Clean and responsive user interface.
 - Reset functionality for a new game.
 
-code : rock_paper_game 
+code : rock_paper_scissors_game
 youtube : 
 
 ---
