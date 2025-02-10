@@ -35,7 +35,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 - Clean and responsive user interface.
 - Reset functionality for a new game.
 
-colabNotebook : 
+code : rock_paper_game 
 youtube : 
 
 ---
@@ -62,4 +62,8 @@ colabNotebook :
 youtube : 
 
 ---
+# Tic Tac Toe Game Using Aider and Raw Code
 
+This repository contains a web-based Tic Tac Toe game implemented via two methods: one generated with #Aider and one using #roo code. Both versions utilize the Google 2.0 Gemini experimental model for code generation. The game features a responsive 3x3 board, input validation, and win/tie detection using HTML, CSS, and JavaScript. Explore the code to compare approaches and learn from both implementations.
+Files name - rooApp and Aider app 
+youtube video : 
