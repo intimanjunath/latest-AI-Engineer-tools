@@ -2,6 +2,7 @@
 ---
 # DeepSeek Janus & R1 Demo Notebook
 This repository contains a Google Colab notebook that demonstrates how to use DeepSeek Janus Pro for advanced image tasks and DeepSeek R1 for interactive text conversations.
+colabNotebook :  https://github.com/intimanjunath/latest-AI-Engineer-tools/blob/main/deepseek_Janus.ipynb
 
 ## Features
 - **Image Analysis & Generation:**
@@ -9,9 +10,9 @@ This repository contains a Google Colab notebook that demonstrates how to use De
   - **Text-to-Image Generation:** Create visually captivating images from creative prompts.
 - **Interactive Chat:**
   - Engage in a conversation with DeepSeek R1, an advanced language model capable of handling complex text.
+colabNotebook : https://github.com/intimanjunath/latest-AI-Engineer-tools/blob/main/Deepseek_R1_text_text.ipynb
 
-colabNotebook : 
-youtube : 
+youtube : https://www.youtube.com/watch?v=yH4giRMQySU&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=4
 
 ---
 
@@ -36,7 +37,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 - Reset functionality for a new game.
 
 code : rock_paper_scissors_game
-youtube : 
+youtube : https://www.youtube.com/watch?v=kUeky6a9FqY&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=5
 
 ---
 
@@ -58,12 +59,13 @@ This repository contains a neural network MNIST classifier built with Keras. The
 - Seaborn
 - Scikit-learn
 
-colabNotebook : 
-youtube : 
+colabNotebook : https://github.com/intimanjunath/latest-AI-Engineer-tools/blob/main/Cursor_mnist_classifier.ipynb
+youtube : https://www.youtube.com/watch?v=1BrBuNUW4jQ&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=3
 
 ---
 # Tic Tac Toe Game Using Aider and Raw Code
 
 This repository contains a web-based Tic Tac Toe game implemented via two methods: one generated with #Aider and one using #roo code. Both versions utilize the Google 2.0 Gemini experimental model for code generation. The game features a responsive 3x3 board, input validation, and win/tie detection using HTML, CSS, and JavaScript. Explore the code to compare approaches and learn from both implementations.
-Files name - rooApp and Aider app 
-youtube video : 
+Code name : rooApp and Aider app 
+Aider youtube video : https://www.youtube.com/watch?v=GcQNxaXRmGk&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=2
+Roo Youtube Video : https://www.youtube.com/watch?v=Y1645pqaFy8&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=1
