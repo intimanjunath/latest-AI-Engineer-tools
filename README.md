@@ -67,7 +67,7 @@ colabNotebook : https://github.com/intimanjunath/latest-AI-Engineer-tools/blob/m
 youtube : https://www.youtube.com/watch?v=1BrBuNUW4jQ&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=3
 
 ---
-# Tic Tac Toe Game Using Aider and Raw Code
+# Tic Tac Toe Game Using Aider and Roo Code
 
 This repository contains a web-based Tic Tac Toe game implemented via two methods: one generated with #Aider and one using #roo code. Both versions utilize the Google 2.0 Gemini experimental model for code generation. The game features a responsive 3x3 board, input validation, and win/tie detection using HTML, CSS, and JavaScript. Explore the code to compare approaches and learn from both implementations.
 
