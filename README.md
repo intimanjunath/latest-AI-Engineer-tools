@@ -10,6 +10,7 @@ colabNotebook :  https://github.com/intimanjunath/latest-AI-Engineer-tools/blob/
   - **Text-to-Image Generation:** Create visually captivating images from creative prompts.
 - **Interactive Chat:**
   - Engage in a conversation with DeepSeek R1, an advanced language model capable of handling complex text.
+
 colabNotebook : https://github.com/intimanjunath/latest-AI-Engineer-tools/blob/main/Deepseek_R1_text_text.ipynb
 
 youtube : https://www.youtube.com/watch?v=yH4giRMQySU&list=PLh8Ujk1E7vYUZvwfdIs10bf01hjIRA4H0&index=4
